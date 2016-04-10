@@ -6,7 +6,7 @@
 
 We use `pandoc` to generate output files from markdown:
 
-`stack install pandoc`
+`stack setup && stack install pandoc`
 
 To generate `slidy` html for a certain session type the following:
 
